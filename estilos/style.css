@@ -5,12 +5,13 @@
 
 body {
     background-color: rgb(204, 191, 216);
+    padding: 10px;
 }
 
 main {
     background-color: white;
     width: 500px;
     margin: auto;
-    padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.733) ;
+    
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.397) ;
 }
